@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+*.pt
+uploads/*
+!uploads/.gitkeep
+output/*
+!output/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
